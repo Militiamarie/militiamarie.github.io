@@ -1,0 +1,1 @@
+var e=[{id:`music`,label:`Music`},{id:`beat`,label:`Beats`},{id:`spell`,label:`Spells`},{id:`sigil`,label:`Sigils`},{id:`deity`,label:`Deity`},{id:`quote`,label:`Quotes`}];export{e as t};
